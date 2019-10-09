@@ -1,16 +1,16 @@
 # Project demo
 
 ## Node.js / Express.js
-yelpcamp:
+##### yelpcamp:
 > https://yelpcamp-tsc.herokuapp.com/
 
-color game:
+##### color game:
 > https://github.com/DawsonChang/colorgame <br>
 https://colorgamedsc.herokuapp.com/
 
 ## Python with Flask
-https://cnfdnf.herokuapp.com/
-
+##### CNF/DNF converter:
+> https://cnfdnf.herokuapp.com/ <br>
 https://github.com/DawsonChang/CNF-DNF-converter-Python
 
 ## Shell in C
