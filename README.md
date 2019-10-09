@@ -14,9 +14,11 @@ code: https://github.com/DawsonChang/colorgame
 code: https://github.com/DawsonChang/CNF-DNF-converter-Python
 
 ## Shell in C
-https://github.com/DawsonChang/shell-in-C
+> code: https://github.com/DawsonChang/shell-in-C
 
 ## Shell script
-https://github.com/DawsonChang/bash-script-weather
+##### search weather of city
+> code: https://github.com/DawsonChang/bash-script-weather
 
-https://github.com/DawsonChang/bash-script-converter
+##### currency converter
+> code: https://github.com/DawsonChang/bash-script-converter
