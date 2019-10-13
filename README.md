@@ -1,8 +1,13 @@
 # Project demo
 
 ## React
-##### streamy
-> code: https://github.com/DawsonChang/react
+##### streamy:
+> demo: https://reactappdsc.herokuapp.com/ <br>
+code: https://github.com/DawsonChang/react
+
+##### todo list:
+> demo: https://todolistdsc.herokuapp.com/ <br>
+code: https://github.com/DawsonChang/react_todolist
 
 ## Node.js / Express.js
 ##### yelpcamp:
