@@ -2,8 +2,8 @@
 
 ## React
 ##### streamy:
-> - demo: https://reactappdsc.herokuapp.com/ <br>
-- code: https://github.com/DawsonChang/react <
+> - Demo: https://reactappdsc.herokuapp.com/ <br>
+> - Code: https://github.com/DawsonChang/react
 
 
 ##### todo list:
