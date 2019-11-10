@@ -1,4 +1,4 @@
-# Project demo
+# **Projects**
 
 ## React
 #### Streamy:
