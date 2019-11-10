@@ -1,14 +1,14 @@
 # Project demo
 
 ## React
-##### streamy:
+#### Streamy:
 > - Demo: https://reactappdsc.herokuapp.com/ <br>
 > - Code: https://github.com/DawsonChang/react
 
 
-##### todo list:
-> demo: https://todolistdsc.herokuapp.com/ <br>
-code: https://github.com/DawsonChang/react_todolist
+#### Todo List:
+> - demo: https://todolistdsc.herokuapp.com/ <br>
+> - code: https://github.com/DawsonChang/react_todolist
 
 
 ## Node.js / Express.js
