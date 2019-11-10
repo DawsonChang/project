@@ -4,13 +4,17 @@
 #### Streamy:
 > - Project demo: https://reactappdsc.herokuapp.com/ <br />
 > - Source code: https://github.com/DawsonChang/react
+
 <br />
 <br />
+
 #### Todo List:
 > - Project demo: https://todolistdsc.herokuapp.com/ <br />
 > - Source code: https://github.com/DawsonChang/react_todolist
+
 <br />
 <br />
+
 ## Node.js / Express.js
 #### Yelpcamp:
 > - Project demo: https://yelpcamp-tsc.herokuapp.com/ <br>
