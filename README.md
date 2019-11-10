@@ -3,7 +3,7 @@
 ## React
 ##### streamy:
 > - demo: https://reactappdsc.herokuapp.com/ <br>
- - code: https://github.com/DawsonChang/react
+- code: https://github.com/DawsonChang/react <
 
 
 ##### todo list:
