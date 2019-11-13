@@ -31,6 +31,9 @@
 > - Project demo: https://cnfdnf.herokuapp.com/ <br />
 > - Source code: https://github.com/DawsonChang/CNF-DNF-converter-Python
 
+#### Finance Simulation:
+> - Source code: https://github.com/DawsonChang/finance
+
 <br />
 <br />
 
