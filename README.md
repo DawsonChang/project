@@ -2,50 +2,60 @@
 
 <br />
 
-## React
-#### Streamy:
-> - Project demo: https://reactappdsc.herokuapp.com/ <br />
-> - Source code: https://github.com/DawsonChang/react
-
-#### Todo List:
-> - Project demo: https://todolistdsc.herokuapp.com/ <br />
-> - Source code: https://github.com/DawsonChang/react_todolist
+## StockSimulator
+#### Stack: angular8, java, hibernate, spring, mySQL, bootstrap, css
+> - Source code(frontend): https://github.com/DawsonChang/stock_frontend <br />
+> - Source code(backend): https://github.com/DawsonChang/stock_backend
 
 <br />
-<br />
 
-## Node.js / Express.js
-#### Yelpcamp:
+## Camp booking website
+#### Stack: Node.js, Express, Javascript, html, css, bootstrap
 > - Project demo: https://yelpcamp-tsc.herokuapp.com/ <br />
 > - Source code: https://github.com/DawsonChang/yelpcamp
 
-#### Color Game:
+<br />
+
+## Color Game
+#### Stack: Node.js, Express, Javascript, html, css, bootstrap
 > - Project demo: https://colorgamedsc.herokuapp.com/ <br />
 > - Source code: https://github.com/DawsonChang/colorgame
 
 <br />
-<br />
 
-## Python with Flask
-#### CNF/DNF Converter:
+## CNF/DNF Converter
+#### Stack: Python, Flask, javascript, Jquery, html, css, bootstrap
 > - Project demo: https://cnfdnf.herokuapp.com/ <br />
 > - Source code: https://github.com/DawsonChang/CNF-DNF-converter-Python
 
-#### Finance Simulation:
-> - Source code: https://github.com/DawsonChang/finance
-
-<br />
 <br />
 
-## Shell in C
+## Todo List
+#### Stack: React/Redux, javascript, css
+> - Project demo: https://todolistdsc.herokuapp.com/ <br />
+> - Source code: https://github.com/DawsonChang/react_todolist
+
+<br />
+
+## Streamy platform
+#### Stack: React/Redux, node-media-server, javascript, css, semantic UI
+> - Project demo: https://reactappdsc.herokuapp.com/ <br />
+> - Source code: https://github.com/DawsonChang/react
+
+<br />
+
+## Shell (create a new shell with 2 additional commands)
+#### Stack: C
 > - Source code: https://github.com/DawsonChang/shell-in-C
 
 <br />
-<br />
 
-## Shell script
-#### Search weather of city
+## Search weather of city
+#### Stack: Shell script, [weatherstack](https://weatherstack.com/)(weather API)
 > - Source code: https://github.com/DawsonChang/bash-script-weather
 
-#### Currency converter
+<br />
+
+## Currency converter
+#### Stack: Shell script
 > - Source code: https://github.com/DawsonChang/bash-script-converter
