@@ -3,7 +3,7 @@
 <br />
 
 ## StockSimulator
-#### Stack: angular8, java, hibernate, spring, mySQL, bootstrap, css
+#### Stack: angular8, java, hibernate, spring, mySQL, bootstrap, css, [IEX Cloud](https://iexcloud.io/)(Financial data API)
 > - Source code(frontend): https://github.com/DawsonChang/stock_frontend <br />
 > - Source code(backend): https://github.com/DawsonChang/stock_backend
 
@@ -57,5 +57,5 @@
 <br />
 
 ## Currency converter
-#### Stack: Shell script
+#### Stack: Shell script, [Foreign exchange rates API](https://exchangeratesapi.io/)
 > - Source code: https://github.com/DawsonChang/bash-script-converter
