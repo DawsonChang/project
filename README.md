@@ -1,4 +1,4 @@
-*To open projects in heroku needs about 1 minute to loading. Thank you for your patience.*
+*To open projects in heroku at the first time costs about 1 minute to loading. Thank you for your patience.*
 
 ## StockSimulator
 #### Stack: Angular 8, TypeScript, Java, Hibernate, Spring, mySQL, css, Bootstrap, [IEX Cloud](https://iexcloud.io/)(Financial data API)
