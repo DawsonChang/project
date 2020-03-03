@@ -1,7 +1,3 @@
-# **Projects**
-
-<br />
-
 ## StockSimulator
 #### Stack: angular8, java, hibernate, spring, mySQL, bootstrap, css, [IEX Cloud](https://iexcloud.io/)(Financial data API)
 > - Source code(frontend): https://github.com/DawsonChang/stock_frontend <br />
