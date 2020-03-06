@@ -42,7 +42,7 @@
 
 <br />
 
-## Shell (built a new shell with 2 additional commands)
+## Shell-in-C (built a new shell with 2 additional commands)
 #### Stack: C
 > - Source code: https://github.com/DawsonChang/shell-in-C
 
