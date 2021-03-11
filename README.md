@@ -13,24 +13,10 @@
 
 <br />
 
-## Camp booking website
-#### Stack: Node.js, Express, JavaScript, HTML, CSS, Bootstrap
-> - Project demo: https://yelpcamp-tsc.herokuapp.com/ <br />
-> - Source code: https://github.com/DawsonChang/yelpcamp
-
-<br />
-
 ## Todo List
 #### Stack: React/Redux, JavaScript, CSS
 > - Project demo: https://todolistdsc.herokuapp.com/ <br />
 > - Source code: https://github.com/DawsonChang/react_todolist
-
-<br />
-
-## Streamy platform
-#### Stack: React/Redux, node-media-server, javascript, CSS, Semantic UI
-> - Project demo: https://reactappdsc.herokuapp.com/ <br />
-> - Source code: https://github.com/DawsonChang/react
 
 <br />
 
@@ -52,6 +38,13 @@
 #### Stack: Python, Flask, JavaScript, jQuery, HTML, CSS, Bootstrap
 > - Project demo: https://cnfdnf.herokuapp.com/ <br />
 > - Source code: https://github.com/DawsonChang/CNF-DNF-converter-Python
+
+<br />
+
+## Camp booking website
+#### Stack: Node.js, Express, JavaScript, HTML, CSS, Bootstrap
+> - Project demo: https://yelpcamp-tsc.herokuapp.com/ <br />
+> - Source code: https://github.com/DawsonChang/yelpcamp
 
 <br />
 
