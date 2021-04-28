@@ -3,7 +3,9 @@
 ## unsplash-explorer (lazy loading by Observer API)
 #### Stack: React, Unsplash API, JavaScript, CSS, HTML
 > - Project demo: https://dawsonchang.github.io/unsplash-explorer/ <br />
-> - Source code: https://github.com/DawsonChang/unsplash-explorer
+> - Source code: https://github.com/DawsonChang/unsplash-explorer <br />
+
+![image](https://github.com/DawsonChang/project/blob/master/unsplash-explorer.gif)
 
 <br />
 
