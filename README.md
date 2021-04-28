@@ -1,6 +1,6 @@
 *To open projects in heroku at the first time costs about 1 minute to loading. Thank you for your patience.*
 
-## unsplash-explorer (lazy loading)
+## unsplash-explorer (lazy loading by Observer API)
 #### Stack: React, Unsplash API, JavaScript, CSS, HTML
 > - Project demo: https://dawsonchang.github.io/unsplash-explorer/ <br />
 > - Source code: https://github.com/DawsonChang/unsplash-explorer
