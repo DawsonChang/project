@@ -18,7 +18,7 @@
 > - Project demo(1): https://budget-tracker-dsc.herokuapp.com/ <br />
 > - Project demo(2): https://dawsonchang.github.io/vue_budget_tracker/#/ <br />
 > - Source code: https://github.com/DawsonChang/vue_budget_tracker
-
+![image](https://github.com/DawsonChang/project/blob/master/vue_budget_tracker2.gif)
 <br />
 
 ## Todo List
