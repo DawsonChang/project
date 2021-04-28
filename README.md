@@ -1,5 +1,12 @@
 *To open projects in heroku at the first time costs about 1 minute to loading. Thank you for your patience.*
 
+## unsplash-explorer (lazy loading)
+#### Stack: React, Unsplash API, JavaScript, CSS, HTML
+> - Project demo: https://dawsonchang.github.io/unsplash-explorer/ <br />
+> - Source code: https://github.com/DawsonChang/unsplash-explorer
+
+<br />
+
 ## Schelling model by Voronoi diagram
 #### Stack: Python3, numpy, geopandas, geoplot, PIL
 > - Source code: https://github.com/DawsonChang/schelling_model_by_voronoi
@@ -8,7 +15,8 @@
 
 ## Budget tracker
 #### Stack: Vue.js, json-server, JavaScript, CSS, HTML
-> - Project demo: https://budget-tracker-dsc.herokuapp.com/ <br />
+> - Project demo(1): https://budget-tracker-dsc.herokuapp.com/ <br />
+> - Project demo(2): https://dawsonchang.github.io/vue_budget_tracker/#/ <br />
 > - Source code: https://github.com/DawsonChang/vue_budget_tracker
 
 <br />
