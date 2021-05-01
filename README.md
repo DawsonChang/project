@@ -13,7 +13,7 @@
 #### Stack: Python3, numpy, geopandas, geoplot, PIL
 > - Source code: https://github.com/DawsonChang/schelling_model_by_voronoi
 
-![image](https://github.com/DawsonChang/project/blob/master/vo-3.gif)
+![image](https://github.com/DawsonChang/project/blob/master/vo-4.gif)
 
 <br />
 
