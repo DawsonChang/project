@@ -26,6 +26,14 @@
 ![image](https://github.com/DawsonChang/project/blob/master/vue_budget_tracker2.gif)
 <br />
 
+## Submarine Simulator
+#### Stack: C++, OpenGL
+> - Source code: https://github.com/DawsonChang/submarine-simulator
+
+![image](https://github.com/DawsonChang/project/blob/master/cg-3.gif)
+
+<br />
+
 ## Todo List
 #### Stack: React/Redux, JavaScript, CSS
 > - Project demo: https://todolistdsc.herokuapp.com/ <br />
